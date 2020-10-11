@@ -8,6 +8,6 @@ Project Description :
 #Instruction:
    * Run sql script
    * Register as a new user
-   * Login
-        UserName :- user
-        Password :- user123
+   * Login :
+        * UserName :- user
+        * Password :- user123
