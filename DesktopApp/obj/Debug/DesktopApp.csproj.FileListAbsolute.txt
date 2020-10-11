@@ -1,0 +1,33 @@
+C:\Users\C#\Desktop\Akram\DesktopApp\DesktopApp\bin\Debug\DesktopApp.exe.config
+C:\Users\C#\Desktop\Akram\DesktopApp\DesktopApp\bin\Debug\DesktopApp.exe
+C:\Users\C#\Desktop\Akram\DesktopApp\DesktopApp\bin\Debug\DesktopApp.pdb
+C:\Users\C#\Desktop\Akram\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csprojAssemblyReference.cache
+C:\Users\C#\Desktop\Akram\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Form1.resources
+C:\Users\C#\Desktop\Akram\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Properties.Resources.resources
+C:\Users\C#\Desktop\Akram\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.GenerateResource.cache
+C:\Users\C#\Desktop\Akram\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.CoreCompileInputs.cache
+C:\Users\C#\Desktop\Akram\DesktopApp\DesktopApp\obj\Debug\DesktopApp.exe
+C:\Users\C#\Desktop\Akram\DesktopApp\DesktopApp\obj\Debug\DesktopApp.pdb
+C:\Users\C#\Desktop\Akram\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Login.resources
+C:\Users\C#\Desktop\Akram\Akram-1252917\DesktopApp\DesktopApp\bin\Debug\DesktopApp.exe.config
+C:\Users\C#\Desktop\Akram\Akram-1252917\DesktopApp\DesktopApp\bin\Debug\DesktopApp.exe
+C:\Users\C#\Desktop\Akram\Akram-1252917\DesktopApp\DesktopApp\bin\Debug\DesktopApp.pdb
+C:\Users\C#\Desktop\Akram\Akram-1252917\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csprojAssemblyReference.cache
+C:\Users\C#\Desktop\Akram\Akram-1252917\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Form1.resources
+C:\Users\C#\Desktop\Akram\Akram-1252917\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Login.resources
+C:\Users\C#\Desktop\Akram\Akram-1252917\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Properties.Resources.resources
+C:\Users\C#\Desktop\Akram\Akram-1252917\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.GenerateResource.cache
+C:\Users\C#\Desktop\Akram\Akram-1252917\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.CoreCompileInputs.cache
+C:\Users\C#\Desktop\Akram\Akram-1252917\DesktopApp\DesktopApp\obj\Debug\DesktopApp.exe
+C:\Users\C#\Desktop\Akram\Akram-1252917\DesktopApp\DesktopApp\obj\Debug\DesktopApp.pdb
+G:\My Project\Akram\6.Akram-1252917\DesktopApp\DesktopApp\bin\Debug\DesktopApp.exe.config
+G:\My Project\Akram\6.Akram-1252917\DesktopApp\DesktopApp\bin\Debug\DesktopApp.exe
+G:\My Project\Akram\6.Akram-1252917\DesktopApp\DesktopApp\bin\Debug\DesktopApp.pdb
+G:\My Project\Akram\6.Akram-1252917\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csprojAssemblyReference.cache
+G:\My Project\Akram\6.Akram-1252917\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Form1.resources
+G:\My Project\Akram\6.Akram-1252917\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Login.resources
+G:\My Project\Akram\6.Akram-1252917\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Properties.Resources.resources
+G:\My Project\Akram\6.Akram-1252917\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.GenerateResource.cache
+G:\My Project\Akram\6.Akram-1252917\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.CoreCompileInputs.cache
+G:\My Project\Akram\6.Akram-1252917\DesktopApp\DesktopApp\obj\Debug\DesktopApp.exe
+G:\My Project\Akram\6.Akram-1252917\DesktopApp\DesktopApp\obj\Debug\DesktopApp.pdb
